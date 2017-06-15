@@ -37,11 +37,26 @@
 #more1{
 	color: white;
 	font-weight: bolder;
-	background-color: yellow;
+	background-color: #ffde00;
 	border: none;
 }
 
 .btn-group-lg>.btn, .btn-lg {
     padding: 15px 25px;
     border-radius: 3px;
+}
+
+.second-section{
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.second-section i{
+	width: 100px;
+	height: 100px;
+	border-radius: 200px;
+	background-color: #ffde00;
+	color: white;
+	padding-top: 10px;
 }
