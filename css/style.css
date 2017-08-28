@@ -6,9 +6,12 @@
 
 .navbar-brand{
 	    font-family: 'Kaushan Script','Helvetica Neue',Helvetica,Arial,cursive;
-	    color: #fec503;
-}
+	    color: #fec503 !important;
+	}
 
+.navbar-brand:hover{
+	color: #fcae05!important;
+}
 .first-section{
 	background-image: url(../img/header-bg.jpg);
 	height: 100vh;
@@ -26,8 +29,8 @@
 }
 
 #visible-bar a:hover{
-	background-color: rgba(111,173,43,0.5);
-	font-weight: bold;
+color: #fec503;	
+font-weight: bold;
 }
 
 .first-box{
