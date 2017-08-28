@@ -4,6 +4,11 @@
 	margin: 0;
 }
 
+.navbar-brand{
+	    font-family: 'Kaushan Script','Helvetica Neue',Helvetica,Arial,cursive;
+	    color: #fec503;
+}
+
 .first-section{
 	background-image: url(../img/header-bg.jpg);
 	height: 100vh;
